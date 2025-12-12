@@ -6,9 +6,9 @@
   "author": "Sasha Koss <koss@nocorp.me>",
   "license": "MIT",
   "dependencies": {
-    "babili": "^0.0.9",
-    "gzip-size-cli": "^1.0.0",
-    "pretty-bytes-cli": "^2.0.0",
+    "babili": "^0.1.4",
+    "gzip-size-cli": "^4.0.0",
+    "pretty-bytes-cli": "^3.0.0",
     "webpack": "^2.2.0"
   },
   "scripts": {
